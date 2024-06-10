@@ -1,4 +1,4 @@
--- The first step is to create a copy of the table being used. This is to prevent possible damage to the dataset in situations of any error from my end
+--The first step is to create a copy of the table being used. This is to prevent possible damage to the dataset in situations of any error from my end
 create table hotel_copy
 like hotel_reservation_dataset;
 
