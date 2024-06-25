@@ -1,5 +1,5 @@
 # SQL
-This repository contains my SQL project on Hotel Reservations. The project involves analyzing and solving various problem statements related to hotel reservation data using SQL. Below are the details of the files included in this repository:
+This project contains my SQL project on Hotel Reservations. The project involves analyzing and solving various problem statements related to hotel reservation data using SQL. Below are the details of the files included in this repository:
 
 Files in the Repository:
 1.	Problem Statements:
